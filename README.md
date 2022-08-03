@@ -8,6 +8,10 @@ https://colab.research.google.com/drive/1yz-XElYJrW9qoc0Oj1Vy7iDhzCoKWWOs
 
 ### We create our own terminal in Google Colab for work in GitHub, GDrive, NGrok
 
+Telegram: https://t.me/cryptodeeptech
+
+Video: https://youtu.be/S2D7PI6dK08
+
 Tutorial: https://cryptodeep.ru/terminal-google-colab
 
 Google Colab provides many cool features that any modern IDE offers
