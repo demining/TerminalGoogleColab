@@ -1,9 +1,7 @@
 # Terminal Google Colab
 
 
-[Terminal CryptoDeepTech for Google Colab](https://colab.research.google.com/drive/180hC1ndp2fNQH7XBZiayOBqeWytqKi8m)
-
-https://colab.research.google.com/drive/180hC1ndp2fNQH7XBZiayOBqeWytqKi8m
+[https://cryptodeeptech.ru/doc/scripts/Terminal_CryptoDeepTech.ipynb](https://cryptodeeptech.ru/doc/scripts/Terminal_CryptoDeepTech.ipynb)
 
 
 ### We create our own terminal in Google Colab for work in GitHub, GDrive, NGrok
